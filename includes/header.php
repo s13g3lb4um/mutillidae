@@ -90,7 +90,7 @@
 <table class="main-table-frame">
 	<tr class="main-table-frame-dark">
 		<td class="main-table-frame-first-bar" colspan="2">
-			<img src="images/coykillericon-50-38.png"/>
+			<img src="images/new_logo.png"/>
 			OWASP Mutillidae II: Keep Calm and Pwn On
 		</td>
 	</tr>
