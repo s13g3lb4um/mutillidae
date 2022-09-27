@@ -67,7 +67,6 @@
 	};// end function onSubmitOfLoginForm(/*HTMLFormElement*/ theForm)
 //-->
 </script>
-<div class="custom_background">
 <div class="page-title">Login</div>
 <div id="id-log-in-form-div" style="display: none; text-align:center;">
 	<form 	action="index.php?page=login.php"
@@ -138,7 +137,6 @@
 			</td>
 		</tr>
 	</table>
-</div>
 </div>
 <script type="text/javascript">
 	var cUNSURE = -1;
