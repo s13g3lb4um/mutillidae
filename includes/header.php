@@ -71,6 +71,7 @@
 	<link rel="shortcut icon" href="./images/favicon.ico" type="image/x-icon" />
 
 	<link rel="stylesheet" type="text/css" href="styles/global-styles.css" />
+	<link rel="stylesheet" type="text/css" href="styles/custom_styles.css" />
 	<link rel="stylesheet" type="text/css" href="styles/ddsmoothmenu/ddsmoothmenu.css" />
 	<link rel="stylesheet" type="text/css" href="javascript/jQuery/colorbox/colorbox.css" />
 	<link rel="stylesheet" type="text/css" href="styles/gritter/jquery.gritter.css" />
