@@ -263,7 +263,7 @@ td.main-table-frame-menu-bar a, a:active, a:visited{
 
 td.main-table-frame-menu-bar a:hover{
 	color: black;
-	background-color: white;
+	background-color: #ef8354;
 }
 
 td.main-table-frame-left{
@@ -283,6 +283,7 @@ td.main-table-frame-right{
 	padding-left: 30px;
 	padding-right: 30px;
 	padding-top: 10px;
+	color: white;
 }
 
 td.main-table-frame-right a, a:active, a:visited{
